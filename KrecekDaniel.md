@@ -4,11 +4,11 @@ Aloha .
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: apple
 
 Your favorite city: ...
 
-Your favorite vegetable: ...
+Your favorite vegetable: carrot
 
 Your favorite color: ...
 
