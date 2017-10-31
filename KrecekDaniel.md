@@ -12,7 +12,7 @@ Your favorite vegetable: carrot
 
 Your favorite color: black
 
-Your favorite icecream: ...
+Your favorite icecream: lemon
 
 Your favorite season: ...
 
