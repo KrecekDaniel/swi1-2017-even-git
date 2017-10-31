@@ -6,7 +6,7 @@ Aloha .
 
 Your favorite fruit: apple
 
-Your favorite city: ...
+Your favorite city: Brno
 
 Your favorite vegetable: ...
 
